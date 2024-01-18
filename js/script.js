@@ -58,7 +58,7 @@ document.querySelector('.modal .close-icon').onclick = (e) => {
 
 //klik diluar modal
 window.onclick = (e) => {
-  if (e.target === itemDetailmodal) {
-    itemDetailmodal.style.display = 'none';
+  if (e.target === itemDetailModal) {
+    itemDetailModal.style.display = 'none';
   }
 };
