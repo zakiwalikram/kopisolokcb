@@ -1,5 +1,5 @@
 # kopisolokcb
-e-commerce toko kopi solok cap bintang
+e-commerce kopi solok cap bintang
 tools =>
 -html
 -css
